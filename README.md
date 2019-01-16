@@ -1,4 +1,4 @@
-# C Chess Game
+# Chess Game in C
 
 1. Min-Max tree AI
 2. C SDL 2.0 GUI API
